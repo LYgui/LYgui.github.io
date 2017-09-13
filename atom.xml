@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lygui.github.io/"/>
-  <updated>2017-09-11T14:29:42.321Z</updated>
+  <updated>2017-09-13T07:04:42.635Z</updated>
   <id>https://lygui.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>心情随记</title>
+    <link href="https://lygui.github.io/2017/09/13/%E5%BF%83%E6%83%85%E9%9A%8F%E8%AE%B0/"/>
+    <id>https://lygui.github.io/2017/09/13/心情随记/</id>
+    <published>2017-09-13T07:04:42.000Z</published>
+    <updated>2017-09-13T07:04:42.635Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
