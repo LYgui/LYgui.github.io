@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[心情随记]]></title>
-    <url>%2F2017%2F09%2F15%2F%E5%BF%83%E6%83%85%E9%9A%8F%E8%AE%B0%2F</url>
-    <content type="text"><![CDATA[坦然聚散，各自相安 《 梦一场 》早知道是这样 如梦一场我又何必把泪都锁在自己的眼眶让你去疯 让你去狂让你在没有我的地方坚强让我在没有你的地方疗伤 从青涩到成熟，虽然有吵有闹，但是我们的心一直都是在一起的 近千个日夜，近三年的陪伴，即将走向终点 男儿有泪不轻弹，只是未到伤心处 我以为我会很坚强的，但是最后也没忍住 她好像比我好一点，不过可能都是装的，不过我希望她是真的坚强！ 我们谁都没有错，但是命运注定我们走不到一起 唉 一别两宽希望她可以过得很好，比在我身边更好]]></content>
-      <tags>
-        <tag>情感</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F09%2F11%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
